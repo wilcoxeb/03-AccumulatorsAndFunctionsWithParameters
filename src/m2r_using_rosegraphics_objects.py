@@ -64,7 +64,7 @@ Authors: David Mutchler, Dave Fisher, Vibha Alangar, Mark Hays, Amanda Stouder,
 #
 #   When you are confident that you have written correct answers
 #   to the above questions (ASK QUESTIONS AS NEEDED!),
-#   change the above TODO to DONE.
+#   change the above Done to DONE.
 #
 ########################################################################
 
