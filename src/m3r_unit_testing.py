@@ -17,6 +17,7 @@ Authors: David Mutchler, Dave Fisher, Vibha Alangar, Mark Hays, Amanda Stouder,
 #     then select  Mark Directory As  ~  Sources Root.
 #
 ###############################################################################
+import math
 
 import rosegraphics as rg
 
