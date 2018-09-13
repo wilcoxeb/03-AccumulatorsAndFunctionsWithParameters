@@ -90,19 +90,19 @@ def run_test_sum_powers_in_range():
     print('--------------------------------------------------')
 
     # Test 1
-    expected = 125
+    expected = 6084
     answer = sum_powers_in_range(4, 75, 2)
     print('Expected:', expected)
     print('Actual:  ', answer)
 
     # Test 2
-    expected = 123
+    expected = 7.14
     answer = sum_powers_in_range(2, 50, .5)
     print('Expected:', expected)
     print('Actual:  ', answer)
 
     # Test 3
-    expected = 200
+    expected = 3.088
     answer = sum_powers_in_range(2, 90, .25)
     print('Expected:', expected)
     print('Actual:  ', answer)
